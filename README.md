@@ -31,5 +31,9 @@ This JavaFX program recursively draws a Sierpinski carpet fractal, using colored
 
 The Sierpinski carpet is constructed by recursively removing squares from a larger square. Each level of recursion divides the current square into nine smaller squares and removes the center square, creating a fractal pattern.
 
+![Example Image](./SierpinskiCarpet.png)
+
+*The above image is the output of this JavaFX program.*
+
 
 
